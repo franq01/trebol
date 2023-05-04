@@ -1,0 +1,30 @@
+.trebol {
+    position: center;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .hoja {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border-radius: 50%;
+  }
+  
+  .hoja-1 {
+    top: 10;
+    left: 25px;
+  }
+  
+  .hoja-2 {
+    top: 30px;
+    left: 0;
+  }
+  
+  .hoja-3 {
+    top: 30px;
+    left: 40px;
+  }
+  
